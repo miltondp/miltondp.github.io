@@ -1,4 +1,8 @@
 theme: minima
+plugins:
+  - jekyll-feed
+
 title: Milton Pividori
 twitter_username: miltondp
 github_username:  miltondp
+timezone: America/New_York
